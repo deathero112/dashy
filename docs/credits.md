@@ -214,7 +214,7 @@
         <a href="https://github.com/emiran-orange">
             <img src="https://avatars.githubusercontent.com/u/71817149?v=4" width="80;" alt="emiran-orange"/>
             <br />
-            <sub><b>emiran-orange</b></sub>
+            <sub><b>Emiran-orange</b></sub>
         </a>
     </td></tr>
 </table>
